@@ -1,3 +1,4 @@
+https://www.mediafire.com/file/upcncrnln93aspl/fusion_CANÁRIOS+DO+REINO+ESQUENTA+SÃO+JOÃO+2024++REPERTÓRIO+PROMOCIONAL+SÃO+JOÃO+2024+🔥+-+MARILSON+CDS+(youtube)_Imaginário+Popular+-+Alcymar+Monteiro+(youtube)+(9).wav/file
 const scrape = require('./api/scrape')
 
 async function main() {
