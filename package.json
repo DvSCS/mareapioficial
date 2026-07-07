@@ -1,0 +1,9 @@
+{
+  "name": "mareapi",
+  "version": "1.0.0",
+  "description": "API para extrair links diretos de vídeo do MegaEmbed",
+  "main": "api/scrape.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
